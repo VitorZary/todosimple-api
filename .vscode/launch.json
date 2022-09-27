@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch TodosimpleApplication",
+            "request": "launch",
+            "mainClass": "com.vitorzary.todosimple.TodosimpleApplication"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "com.vitorzary.todosimple.teste"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "com.vitorzary.todosimple.teste",
+            "projectName": "todosimple"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-TodosimpleApplication<todosimple>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.vitorzary.todosimple.TodosimpleApplication",
+            "projectName": "todosimple",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
